@@ -42,38 +42,14 @@ project/
 └── .gitignore          # Git exclusion file
 ```
 
-## 📸 Screenshots
-*(Add your project screenshots here)*
-
 ## 🔗 Live Demo
 [View Live Demo](https://moiz.github.io/decodelabs-project-1-task-dashboard/) *(Placeholder)*
 
-## 💻 Installation Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/decodelabs-project-1-task-dashboard.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd decodelabs-project-1-task-dashboard
-   ```
-3. Open `index.html` in your preferred browser.
 
 ## 👤 Author
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**Muhammad Moiz**
+- GitHub: [@yourusername](https://github.com/MuhammadMoiz-stack)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/muhammad-moiz-6744682b8/)
 
 ---
 *Developed for the DecodeLabs Internship Program - 2026*
-
-
-
-   1 # 1. Add the remote repository (Replace with your actual repo URL)
-   2 git remote add origin https://github.com/yourusername/decodelabs-project-1-task-dashboard.git
-   3
-   4 # 2. Rename branch to main (standard)
-   5 git branch -M main
-   6
-   7 # 3. Push to GitHub
-   8 git push -u origin main
