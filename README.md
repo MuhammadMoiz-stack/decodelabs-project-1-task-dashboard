@@ -1,7 +1,5 @@
 # TaskMaster - Modern Task Management Dashboard
 
-![TaskMaster Preview](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-
 ## 🚀 Project Overview
 TaskMaster is a modern, professional, and fully responsive Task Management Dashboard designed for high-productivity environments. Built with a SaaS-first mindset, it provides users with a clean interface to manage daily tasks, track productivity through real-time statistics, and maintain a clear visual hierarchy of their priorities.
 
