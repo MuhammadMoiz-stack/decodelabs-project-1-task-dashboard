@@ -68,3 +68,14 @@ project/
 
 ---
 *Developed for the DecodeLabs Internship Program - 2026*
+
+
+
+   1 # 1. Add the remote repository (Replace with your actual repo URL)
+   2 git remote add origin https://github.com/yourusername/decodelabs-project-1-task-dashboard.git
+   3
+   4 # 2. Rename branch to main (standard)
+   5 git branch -M main
+   6
+   7 # 3. Push to GitHub
+   8 git push -u origin main
